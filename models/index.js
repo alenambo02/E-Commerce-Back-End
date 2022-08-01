@@ -23,7 +23,6 @@ Product.belongsToMany(Tag, {
     model: ProductTag,
    
 
-    unique: false
   },
 
 
@@ -36,7 +35,6 @@ Tag.belongsToMany(Product, {
     model: ProductTag,
    
 
-    unique: false
   },
 
 });
