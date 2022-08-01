@@ -10,6 +10,16 @@ class Product extends Model {}
 Product.init(
   {
     // define columns
+
+    },
+    category_id: {
+      type: DataTypes.INTEGER,
+      refrence:{
+        model: 'Category',
+        key: 'id',
+        unique: false
+      }
+    }
   },
   {
     sequelize,
