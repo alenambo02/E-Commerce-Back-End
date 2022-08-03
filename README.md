@@ -3,12 +3,12 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   #Table of Content
-  -[description](#Description)
-  -[installation](#Installation)
-  -[usage](#Usage)
-  -[credits](#Credits)
-  -[license](#License)
-  -[contact](#Contact)
+  - [description](#Description)
+  - [installation](#Installation)
+  - [usage](#Usage)
+  - [credits](#Credits)
+  - [license](#License)
+  - [contact](#Contact)
 
   ## Description:
   The purpose behind this project was to create a back end for an e-commerce site. In order to be able to create, update and delete products as you wish. The user can also access the category, products and tags by using GET method to view the JSON data in each database. Now the user will be able to more easily run inventory. 
